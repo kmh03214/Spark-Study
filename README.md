@@ -1,5 +1,7 @@
 # Spark-Study
 
+이 스터디 자료는 Spark The Definitive Guide를 바탕으로 작성했습니다.
+
 concept: 개념 정리
 code: 실습코드 파일
 
