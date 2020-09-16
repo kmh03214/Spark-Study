@@ -17,5 +17,5 @@ log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more in
 ~~~
 
 해결방법
-
+<a href="https://stackoverflow.com/questions/46507887/pyspark-error-executing-jupyter-command-while-running-a-file-using-spark-submit">해결 링크</a>
 `$ unset PYSPARK_DRIVER_PYTHON` 입력
